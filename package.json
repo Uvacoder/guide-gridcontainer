@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/yoksel/grid-cheatsheet/issues"
   },
-  "homepage": "https://github.com/yoksel/grid-cheatsheet",
+  "homepage": "https://uvacoder.github.io/grid-cheatsheet/",
   "devDependencies": {
     "@babel/cli": "^7.10.3",
     "@babel/core": "^7.8.4",
